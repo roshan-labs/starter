@@ -3,6 +3,7 @@
   "scripts": {
     "dev": "nuxi dev",
     "build": "nuxi build",
+    "storybook": "nuxt storybook",
     "start": "node .output/server/index.mjs"
   },
   "config": {
@@ -12,7 +13,7 @@
   },
   "devDependencies": {
     "@iconify-json/ant-design": "^1.1.1",
-    "@roshan-labs/ui-module": "^0.1.7",
+    "@roshan-labs/ui-module": "^0.1.14",
     "cz-conventional-changelog": "^3.3.0",
     "nuxt": "3.0.0-rc.3"
   }

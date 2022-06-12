@@ -758,10 +758,10 @@
     "@nuxt/kit" "^3.0.0-rc.3"
     unplugin-icons "^0.14.3"
 
-"@roshan-labs/ui-module@^0.1.14":
-  version "0.1.14"
-  resolved "https://registry.npmmirror.com/@roshan-labs/ui-module/-/ui-module-0.1.14.tgz#2f317fb1712aa04950c8a1b6ba6ce8e32b48dd0d"
-  integrity sha512-g4sgFiC2QppjIq1GDO9KUCzBwoaX7J5ig6p5Xi0gKx/WVxJiDdHCyTWdfQKH74VhvgNiLLXlAfcx1TZ63OYL/A==
+"@roshan-labs/ui-module@^0.1.18":
+  version "0.1.18"
+  resolved "https://registry.npmmirror.com/@roshan-labs/ui-module/-/ui-module-0.1.18.tgz#0a715a6e4dbd7b5381b29601176e423d403a153d"
+  integrity sha512-qpXdZ2uFk7dqoSo73j3YEpqM/U2SJ+NfcpWHGk23CGdNsL/1YotPT0MBvs3wdZnZK6wgwrx8L07iy6mdr1nI5A==
   dependencies:
     "@nuxt/kit" "^3.0.0-rc.3"
     "@roshan-labs/icon-module" "^0.1.0"

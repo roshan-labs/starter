@@ -12,15 +12,13 @@
     }
   },
   "devDependencies": {
-    "@iconify-json/ant-design": "^1.1.1",
-    "@nuxtjs/eslint-config-typescript": "^10.0.0",
-    "@roshan-labs/eslint-module": "^0.1.1",
+    "@roshan-labs/eslint-config": "^1.1.0",
+    "@roshan-labs/eslint-module": "^0.1.2",
+    "@roshan-labs/http-module": "^0.1.5",
     "@roshan-labs/ui-module": "^0.1.18",
     "cz-conventional-changelog": "^3.3.0",
-    "eslint": "^8.17.0",
-    "eslint-config-prettier": "^8.5.0",
-    "eslint-plugin-prettier": "^4.0.0",
-    "nuxt": "3.0.0-rc.4",
-    "prettier": "^2.6.2"
+    "eslint": "^8.19.0",
+    "nuxt": "3.0.0-rc.5",
+    "prettier": "^2.7.1"
   }
 }

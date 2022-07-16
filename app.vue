@@ -1,5 +1,3 @@
 <template>
-  <nuxt-layout>
-    <nuxt-page />
-  </nuxt-layout>
+  <div>Web 应用</div>
 </template>
